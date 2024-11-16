@@ -1,0 +1,130 @@
+{
+    "For Grade 8-10": [
+      {
+        "img": "https://images.stockcake.com/public/c/e/6/ce65f822-587c-4a15-b924-b49d8d7637c6_large/graduation-academic-success-stockcake.jpg",
+        "title": "Title 1",
+        "ratings": "4.0",
+        "reviews":"(75 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/2/1/9/21956952-9e53-4d1a-9f8c-1de39acab4f3_large/graduation-joyful-moment-stockcake.jpg",
+        "title": "Title 2",
+        "ratings": "3.0",
+        "reviews": "(50 reviews)",
+        
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/c/c/d/ccd0149e-ffa2-4bb4-bece-c28fb649a187_large/corporate-meeting-discussion-stockcake.jpg",
+        "title": "Title 3",
+        "ratings": "4.0",
+        "reviews": "(78 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/9/d/6/9d654c09-c5c5-4c52-9d41-97c08e85bf68_large/professional-handshake-deal-stockcake.jpg",
+        "title": "Title 4",
+        "ratings": "4.0",
+        "reviews": "(75 reviews)",
+        
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/f/9/f/f9f35ff6-6b6c-4a40-b379-9ba182c78f16_large/students-choosing-programs-stockcake.jpg",
+        "title": "Title 5",
+        "ratings": "5.0",
+        "reviews": "90 reviews)",
+       
+        "duration": "6 Months"
+      }
+    ],
+    "For Grade 11-12": [
+      {
+        "img": "https://images.stockcake.com/public/6/9/0/690cedba-b2b2-4b01-b9db-4b7f34a9148f_large/students-in-lecture-stockcake.jpg",
+        "title": "Title 4",
+
+        "ratings": "4.0",
+        "reviews": "(77 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/3/2/5/325da75a-bdb3-422f-bc53-998c39d98b8a_large/focused-learning-experience-stockcake.jpg",
+        "title": "Title 5",
+        "ratings": "4.0",
+        "reviews": "(75 reviews)",
+        
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/5/0/d/50da3666-c83c-4d50-a356-da70f7d5bbc0_large/vr-learning-session-stockcake.jpg",
+        "title": "Title 6",
+        "ratings": "5.0",
+        "reviews": "(90 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/4/4/5/445b0cbe-4bc9-4532-afd8-f0a7471c402b_large/family-learning-time-stockcake.jpg",
+        "title": "Title 12",
+        "ratings": "5.0",
+        "reviews": "(90 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/2/6/9/26994c64-d607-45cb-b3fa-95a0dfc9138a_large/interactive-learning-experience-stockcake.jpg",
+        "title": "Title 13",
+        "ratings": "4.0",
+        "reviews": "(78 reviews)",
+        
+        "duration": "6 Months"
+      }
+    ],
+    "Degree courses": [
+      {
+        "img": "https://images.stockcake.com/public/1/f/e/1fee5170-e96b-4682-b02c-cdbea66a71bf_large/joyful-learning-experience-stockcake.jpg",
+        "title": "Title 7",
+        "ratings": "3.0",
+        "reviews": "(65 reviews)",
+        
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/b/1/3/b133e748-b8ae-40d5-9b61-af165ae9df94_large/educational-brain-concept-stockcake.jpg",
+        "title": "Title 8",
+        "ratings": "5.0",
+        "reviews": "(95 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/1/f/c/1fceaff2-5bd6-45d3-9119-a3712d7184f4_large/innovative-reading-experience-stockcake.jpg",
+        "title": "Title 9",
+        "ratings": "4.0",
+        "reviews": "(70 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/6/7/6/6760c60b-cf5c-4a10-997c-f77627e488c0_large/engaged-classroom-teaching-stockcake.jpg",
+        "title": "Title 14",
+        "ratings": "3.0",
+        "reviews": "(60 reviews)",
+       
+        "duration": "6 Months"
+      },
+      {
+        "img": "https://images.stockcake.com/public/0/e/9/0e9eaa4f-03d4-4434-a9bf-01f15953acf8_large/classroom-learning-scene-stockcake.jpg",
+        "title": "Title 15",
+        "ratings": "3.0",
+        "reviews": "(65 reviews)",
+        
+        "duration": "6 Months"
+      }
+    ]
+  }
+  

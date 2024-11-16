@@ -1,0 +1,77 @@
+{
+  "generalQuestions": {
+    "Q1": {
+      "question": "What is GCEP (Global Collabo Educational Partnership)?",
+      "answer": "GCEP is a collaborative initiative aimed at building partnerships with schools, colleges, and educational institutions worldwide to enhance learning experiences and outcomes."
+    },
+    "Q2": {
+      "question": "How can I contact customer support?",
+      "answer": "You can reach our support team via email at [support@yourcompany.com] or through the contact form on our website."
+    },
+    "Q3": {
+      "question": "Where is your company based?",
+      "answer": "[Your Company Name] operates globally, with headquarters in [Location]."
+    }
+  },
+  "coursesEnrollment": {
+    "Q1": {
+      "question": "What types of courses do you offer?",
+      "answer": "We offer a variety of courses tailored for schools, colleges, and degree-related programs, with options in [Subject Areas]."
+    },
+    "Q2": {
+      "question": "How do I enroll in a course?",
+      "answer": "You can enroll by visiting our Courses page, selecting the course you're interested in, and following the registration instructions."
+    },
+    "Q3": {
+      "question": "Do you offer any certifications?",
+      "answer": "Yes, we offer certifications for completed courses, which are recognized by our partner institutions and organizations."
+    },
+    "Q4": {
+      "question": "Can I cancel my enrollment in a course?",
+      "answer": "Yes, you can cancel your enrollment within [X] days of registration. Please review our refund policy for more details."
+    }
+  },
+  "partnerships": {
+    "Q1": {
+      "question": "How do I become a GCEP partner?",
+      "answer": "To become a GCEP partner, you can submit a partnership inquiry through our Partnership page. Our team will review your application and contact you for further steps."
+    },
+    "Q2": {
+      "question": "What types of partnerships are available?",
+      "answer": "We offer a variety of partnerships, including curriculum development, student exchange programs, and technology integration partnerships."
+    },
+    "Q3": {
+      "question": "What are the benefits of becoming a GCEP partner?",
+      "answer": "Partners benefit from access to innovative learning tools, global collaboration opportunities, and continuous support from our team."
+    }
+  },
+  "paymentsRefunds": {
+    "Q1": {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept payments via credit card, debit card, and digital payment gateways like Razorpay."
+    },
+    "Q2": {
+      "question": "How do I request a refund?",
+      "answer": "You can request a refund by contacting our support team within [X] days of your purchase. Please review our Refund Policy for more details."
+    },
+    "Q3": {
+      "question": "Can I get a refund if I cancel a course mid-way?",
+      "answer": "Refunds for mid-course cancellations are handled on a case-by-case basis. Please contact our support team for assistance."
+    }
+  },
+  "technicalSupport": {
+    "Q1": {
+      "question": "I’m having trouble accessing my course. What should I do?",
+      "answer": "If you're facing technical difficulties, try clearing your browser cache and refreshing the page. If the problem persists, contact our support team for assistance."
+    },
+    "Q2": {
+      "question": "What browsers are supported on your platform?",
+      "answer": "Our platform supports the latest versions of Chrome, Firefox, Safari, and Edge for the best experience."
+    },
+    "Q3": {
+      "question": "How can I reset my password?",
+      "answer": "Click on the ‘Forgot Password’ link on the login page, and follow the instructions to reset your password."
+    }
+  }
+ 
+}

@@ -1,0 +1,8 @@
+.blog-carousel div img {
+  opacity: 0.7;
+  transition: 0.4s ease-in-out;
+}
+.blog-carousel .slick-center img {
+  transform: scale(1.08);
+  opacity: 1;
+}

@@ -1,0 +1,10 @@
+{
+    "effect": "cards",
+    "grabCursor": true,
+    "autoplay": {
+      "delay": 500,
+      "disableOnInteraction": false
+    },
+    "className": "mySwiper sm:w-72 sm:h-80 md:w-80 md:h-96 lg:w-100 lg:h-120"
+  }
+  
